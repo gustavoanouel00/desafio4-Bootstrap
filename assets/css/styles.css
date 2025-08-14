@@ -1,0 +1,7 @@
+.navbar-brand img,
+.logo-footer {
+  width: 8em;
+}
+.menu-item:hover {
+  color: white !important;
+}
